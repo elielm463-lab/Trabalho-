@@ -36,28 +36,30 @@ appwiz.cpl|Abre o "Programas e Recursos" para desinstalar, reparar ou visualizar
 
 ## Quando eles pode ser útil
 
-MSINFO32 =  para obter um detalhado inventário do hardware, software e ambiente de rede do seu computador,
+**MSINFO32** =  para obter um detalhado inventário do hardware, software e ambiente de rede do seu computador,
 
- appwiz.cpl= é útil para abrir rapidamente a janela "Programas e Recursos" no Windows, permitindo desinstalar, alterar ou reparar softwares instalados no seu computador.
+ **appwiz.cpl**= é útil para abrir rapidamente a janela "Programas e Recursos" no Windows, permitindo desinstalar, alterar ou reparar softwares instalados no seu computador.
 
-  desk.cpl=sendo útil para ajustar a resolução da tela, configurar múltiplos monitores, alterar a orientação da imagem, ajustar brilho e cores, ou personalizar o tamanho de textos e itens na tela.
+  **desk.cpl**= sendo útil para ajustar a resolução da tela, configurar múltiplos monitores, alterar a orientação da imagem, ajustar brilho e cores, ou personalizar o tamanho de textos e itens na tela.
 
-   cleanmgr= útil para liberar espaço no disco rígido ao remover arquivos desnecessários do sistema, como arquivos temporários, arquivos da Internet e da Lixeira
+   **cleanmgr**= útil para liberar espaço no disco rígido ao remover arquivos desnecessários do sistema, como arquivos temporários, arquivos da Internet e da Lixeira
 
-   sfc /scannow= pode ser útil para corrigir problemas do Windows, como a tela azul, travamentos, reinicializações inesperadas e softwares que não abrem
+   **sfc /scannow**= pode ser útil para corrigir problemas do Windows, como a tela azul, travamentos, reinicializações inesperadas e softwares que não abrem
 
-chkdsk= é útil para verificar e reparar o disco rígido ou SSD em busca de erros de sistema de arquivos, arquivos corrompidos ou setores defeituosos.
+**chkdsk**= é útil para verificar e reparar o disco rígido ou SSD em busca de erros de sistema de arquivos, arquivos corrompidos ou setores defeituosos.
 
-ipconfig= é um comando de utilitário de rede útil para diagnosticar e resolver problemas de conexão de rede
+**ipconfig**= é um comando de utilitário de rede útil para diagnosticar e resolver problemas de conexão de rede
 
-Hiren's BootCD= para diagnóstico e solução de problemas em computadores, como antivírus, ferramentas de partição e recuperação de dados
+**Hiren's BootCD**= para diagnóstico e solução de problemas em computadores, como antivírus, ferramentas de partição e recuperação de dados
 
-HWMonitor= útil para monitorar as temperaturas, voltagens, velocidades dos ventiladores e o uso de componentes do computador
+**HWMonitor**= útil para monitorar as temperaturas, voltagens, velocidades dos ventiladores e o uso de componentes do computador
 
- Burn-in= é útil para diagnosticar e identificar falhas em eletrônicos, como componentes de computadores (CPU, memória RAM, disco rígido, placa gráfica)
+ **Burn-in** = é útil para diagnosticar e identificar falhas em eletrônicos, como componentes de computadores (CPU, memória RAM, disco rígido, placa gráfica)
+
+
 
 ## 👤 Autor
-Eliel conejo miranda
+## EliEL CONEJO MIRANDA
 
 ## 📅 Data
 Data da entrega
@@ -66,3 +68,4 @@ Data da entrega
 elielm463@gmail.com
 
 ## 🧠 O que aprendi?
+## Com base nas pesquisa, tive o conhecimento de algumas funções e comandos, atalhos especificos para poder ter acessos a programas do sistemas e hardware, com muito mais eficiencia. 
