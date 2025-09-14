@@ -58,6 +58,15 @@ appwiz.cpl|Abre o "Programas e Recursos" para desinstalar, reparar ou visualizar
 
 
 
+# Atividade: README.md + Comandos CMD para Hardware 🖥️
+
+##  O que é um README.md?
+É um arquivo que serve como um guia inicial para um projeto de software
+
+
+
+## 💻 Comandos CMD voltados para hardware
+
 ## 👤 Autor
 ## EliEL CONEJO MIRANDA
 
