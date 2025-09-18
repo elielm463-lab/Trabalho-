@@ -67,6 +67,40 @@ appwiz.cpl|Abre o "Programas e Recursos" para desinstalar, reparar ou visualizar
 
 ## 💻 Comandos CMD voltados para hardware
 
+1. **Comando:** `systeminfo`
+.**Função:** Mostra informações detalhadas sobre o sistema operacional e o hardware.
+.**Uso:** Diagnóstico geral.
+
+
+2. **comando: `msinfo32` 
+.**Função: Abre a ferramenta "Informações do Sistema"
+.**Uso: oferece um resumo detalhado de hardware e software
+
+3.**comando: ` list disk`
+.**Função: Exibe todos os discos instalados no sistema.  
+.**Uso: Permite identificar um disco específico para realizar operações posteriores
+
+
+4.**comandos: `mdsched`
+.**Função:  Inicia o Diagnóstico de Memória do Windows
+.**Uso:  ajuda a verificar problemas na memória RAM do seu PC
+
+
+4.**Comandos: `getmac`
+.**Função: : Exibe o endereço MAC, de um ou mais adaptadores de rede no computador.
+.**Uso: e um dispositivo de rede para comunicação na rede local.
+
+
+
+
+
+
+
+
+
+
+
+
 ## 👤 Autor
 ## EliEL CONEJO MIRANDA
 
