@@ -58,57 +58,61 @@ appwiz.cpl|Abre o "Programas e Recursos" para desinstalar, reparar ou visualizar
 
 
 
-# Atividade: README.md + Comandos CMD para Hardware 🖥️
+#  README.md + Comandos CMD para Hardware 🖥️
 
 ##  O que é um README.md?
 É um arquivo que serve como um guia inicial para um projeto de software
 
 
 
-## 💻 Comandos CMD voltados para hardware
+##  Comandos CMD voltados para hardware 📟
 
 1. **Comando:** `systeminfo`
-.**Função:** Mostra informações detalhadas sobre o sistema operacional e o hardware.
-.**Uso:** Diagnóstico geral.
+ 
+•**Função:** Mostra informações detalhadas sobre o sistema operacional e o hardware.
+
+**Uso:** Diagnóstico geral.
 
 
-2. **comando: `msinfo32` 
-.**Função: Abre a ferramenta "Informações do Sistema"
-.**Uso: oferece um resumo detalhado de hardware e software
-
-3.**comando: ` list disk`
-.**Função: Exibe todos os discos instalados no sistema.  
-.**Uso: Permite identificar um disco específico para realizar operações posteriores
+2. **comando:** `msinfo32`
+ 
+•**Função:** Abre a ferramenta "Informações do Sistema"
+   
+•**Uso:** oferece um resumo detalhado de hardware e software
 
 
-4.**comandos: `mdsched`
-.**Função:  Inicia o Diagnóstico de Memória do Windows
-.**Uso:  ajuda a verificar problemas na memória RAM do seu PC
+3. **comando:** ` list disk`
+
+•**Função:** Exibe todos os discos instalados no sistema.  
+
+•**Uso:** Permite identificar um disco específico para realizar operações posteriores
 
 
-4.**Comandos: `getmac`
-.**Função: : Exibe o endereço MAC, de um ou mais adaptadores de rede no computador.
-.**Uso: e um dispositivo de rede para comunicação na rede local.
+4. **comandos:** `mdsched`
+
+•**Função:**  Inicia o Diagnóstico de Memória do Windows
+
+•**Uso:**  ajuda a verificar problemas na memória RAM do seu PC
+
+
+5. **Comandos:** `getmac`
+
+•**Função:** Exibe o endereço MAC, de um ou mais adaptadores de rede no computador.
+
+•**Uso:** e um dispositivo de rede para comunicação na rede local.
 
 
 
 
 
+## 👤 EliEL CONEJO MIRANDA
 
-
-
-
-
-
-
-## 👤 Autor
-## EliEL CONEJO MIRANDA
 
 ## 📅 Data
-Data da entrega
+## 19/09/25
 
 ## 📧 Contato
-elielm463@gmail.com
+## elielm463@gmail.com
 
 ## 🧠 O que aprendi?
 ## Com base nas pesquisa, tive o conhecimento de algumas funções e comandos, atalhos especificos para poder ter acessos a programas do sistemas e hardware, com muito mais eficiencia. 
